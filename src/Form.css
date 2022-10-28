@@ -1,0 +1,93 @@
+.box {
+    background-color: red;
+}
+
+.boxMom {
+    background-color: rgb(223, 59, 114);
+    
+}
+
+.boxHpyer {
+    background-color: rgb(4, 4, 209);
+}
+
+.btn-mom{
+    width: 200px;
+    height: 25px;
+    border: none;
+    color: white;
+    background-color: pink;
+    border-radius: 4px;
+    box-shadow: inset 0 0 0 0 rgb(122, 3, 122);
+    transition: ease-out 0.3s;
+    font-size: 1rem;
+    outline: none;
+}
+
+.btn-mom :hover {
+    box-shadow: inset 200px 0 0 0 rgb(122, 3, 122);
+    cursor: pointer;
+    color: black;
+}
+
+.btn-hyper{
+    width: 200px;
+    height: 25px;
+    border: none;
+    color: white;
+    background-color: blue;
+    border-radius: 4px;
+    box-shadow: inset 0 0 0 0 rgb(122, 3, 122);
+    transition: ease-out 0.3s;
+    font-size: 1rem;
+    outline: none;
+}
+
+.btn-hyper :hover {
+    box-shadow: inset 200px 0 0 0 rgb(122, 3, 122);
+    cursor: pointer;
+    color: black;
+}
+
+.btn-sport{
+    width: 200px;
+    height: 25px;
+    border: none;
+    color: white;
+    background-color: red;
+    border-radius: 4px;
+    box-shadow: inset 0 0 0 0 rgb(122, 3, 122);
+    transition: ease-out 0.3s;
+    font-size: 1rem;
+    outline: none;
+}
+
+.btn-sport :hover {
+    box-shadow: inset 200px 0 0 0 rgb(122, 3, 122);
+    cursor: pointer;
+    color: black;
+}
+
+h10 {
+    color:azure;
+}
+
+h3 {
+    color: red;
+    margin-left: 46em;
+}
+
+.momH3 {
+    color: rgb(223, 59, 114);
+    margin-left: 32em;
+
+}
+
+.hyperH3 {
+    color: rgb(4, 4, 209);
+    margin-left: 30em;
+}
+
+.formSport {
+    margin-left: 17em;
+}

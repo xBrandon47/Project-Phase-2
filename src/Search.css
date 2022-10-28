@@ -1,0 +1,15 @@
+.searchbar {
+    font-family: 'Courier New', Courier, monospace;
+    /* background-color: aqua; */
+    color: red;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThiV43cqqSD202AqVERx4uZnuoGGRAQaQ3jw&usqp=CAU");
+
+}
+
+#search {
+    margin-left: 3px;
+    background-color: white;
+    color: chocolate
+
+}
+

@@ -1,0 +1,40 @@
+.tri-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.image-card {
+    width: 500px;
+    height: 300px;
+}
+
+.link-container {
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+    border: 1px solid black;
+    margin-top: 10px;
+    font-size: 22px;
+    background-color: black;
+    background-image: url("https://media.istockphoto.com/vectors/racing-horizontal-backdrop-vector-id164070810?k=20&m=164070810&s=612x612&w=0&h=2jIc5fghrYTbZYfVTawXcaw-WeXG7JxIWGuaXAkCKh8=");
+}
+
+.text {
+    text-decoration: none;
+    /* background-color: black; */
+    width: 100%;
+    text-align: center;
+    color: rgb(119, 173, 248);
+    background-image: url("");
+}
+
+.link-container :hover{
+    color:blue;
+}
+
+.footer {
+    color: whitesmoke;
+    font-family: Blazed;
+}

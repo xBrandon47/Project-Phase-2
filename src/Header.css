@@ -1,0 +1,22 @@
+ .Nav {
+  background-color: whitesmoke;
+  border: 1px solid black;
+  width: 100%;
+  justify-content: space-between;
+  display: flex;
+  flex-direction: row;
+  background-image: url("https://thumbs.gfycat.com/CheapMilkyHarrier-max-1mb.gif");
+}
+
+#navlink a {
+    margin-right: 100px;
+    text-decoration: none;
+    font-size: large;
+    font-family: Blazed;
+    color: red;
+    padding-inline: 100px;
+}
+
+#navlink a:hover {
+    color: blueviolet
+}
